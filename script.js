@@ -27,3 +27,18 @@
 // document.getElementById("p2").textContent = `i am ${age} yeas old`;
 // document.getElementById("p3").textContent = `am i smart: ${isSmart}`;
 
+// let username;
+// username = window.prompt(`what is urmane`);
+// console.log(username);
+
+// let name;
+// document.getElementById("bu").onclick = function(){
+//     name= document.getElementById("in").value;
+//     console.log(name);
+//     document.getElementById("h1").textContent = `hello welcome! ${name}`;
+// }
+
+let age=window.prompt("how old r u?");
+age = Number(age);
+age=age+1;
+console.log(age);
