@@ -17,4 +17,13 @@
 //     console.log(`welcome as ur ${age} which is more that 18`);
 // }
 
+// let name= '1';
+// console.log(typeof name);
+
+// let name="anya";
+// let age=19;
+// let isSmart=false;
+// document.getElementById("p1").textContent = `my name is ${name}`;
+// document.getElementById("p2").textContent = `i am ${age} yeas old`;
+// document.getElementById("p3").textContent = `am i smart: ${isSmart}`;
 
