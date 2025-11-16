@@ -38,7 +38,15 @@
 //     document.getElementById("h1").textContent = `hello welcome! ${name}`;
 // }
 
-let age=window.prompt("how old r u?");
-age = Number(age);
-age=age+1;
-console.log(age);
+// let age=window.prompt("how old r u?");
+// age = Number(age);
+// age=age+1;
+// console.log(age, typeof age);
+
+// let x= "0";
+// x=String(x);
+// console.log(x, typeof x)
+
+const PI=3.14;
+let r , l, b, h;
+
