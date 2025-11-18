@@ -47,6 +47,3 @@
 // x=String(x);
 // console.log(x, typeof x)
 
-const PI=3.14;
-let r , l, b, h;
-
