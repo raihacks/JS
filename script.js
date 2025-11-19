@@ -47,3 +47,25 @@
 // x=String(x);
 // console.log(x, typeof x)
 
+//COUNTER PROGRAM
+
+// const increase = document.getElementById("increase");
+// const reset = document.getElementById("reset");
+// const decrease = document.getElementById("decrease");
+// const conlabel = document.getElementById("conlabel");
+// let count = 0;
+
+// increase.onclick = function(){
+//     count++;
+//     conlabel.textContent = count;
+// }
+
+// decrease.onclick = function(){
+//     count--;
+//     conlabel.textContent = count;
+// }
+
+// reset.onclick = function(){
+//     count=0;
+//     conlabel.textContent = count;
+// }
