@@ -1,4 +1,3 @@
-//random number generator
 
 
 // const bnt=document.getElementById("bnt");
