@@ -17,3 +17,32 @@
 // }
 
 
+// const cbox = document.getElementById("cbox");
+// const cbox1 = document.getElementById("cbox1");
+// const cbox2 = document.getElementById("cbox2");
+// const cbox3 = document.getElementById("cbox3");
+// const btn = document.getElementById("btn");
+// const subResult = document.getElementById("subResult");
+// const tvResult = document.getElementById("tvResult");
+// btn.onclick = function(){
+//     if(cbox.checked){
+//         subResult.textContent = `You are subscribed`;
+//     }
+//     else{
+//         subResult.textContent = `You are NOT subscribed`;
+//     }
+//     if(cbox1.checked){
+//         tvResult.textContent = `You are subscrided to hotstar`;
+//     }
+//     else if(cbox2.checked){
+//         tvResult.textContent = `You are subscrided to netfixl`;
+//     }
+//     else if(cbox3.checked){
+//         tvResult.textContent = `You are subscrided to holo`;
+//     }
+//     else{
+//         tvResult.textContent = `plesae chosse `;
+//     }
+// }
+
+
