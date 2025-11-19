@@ -1,5 +1,3 @@
-
-
 // const bnt=document.getElementById("bnt");
 // const lable1=document.getElementById("lable1");
 // const lable2=document.getElementById("lable2");
@@ -17,4 +15,5 @@
 //     lable2.textContent=randomNum2;
 //     lable3.textContent=randomNum3;
 // }
+
 
