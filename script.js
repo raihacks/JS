@@ -113,5 +113,10 @@
 // userName = userName.repeat(4);
 // console.log(userName);
 
+// const fullName = "Sid Anya";
+// let firstName = fullName.slice(0,3);
+// let lastName = fullName.slice(4,);
+// console.log(firstName);
+// console.log(lastName);
 
 
