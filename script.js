@@ -106,3 +106,12 @@
 // }
 // console.log(letterGrade);
 
+// let userName = "sidanya";
+// console.log(userName.charAt(3));
+// console.log(userName.indexOf("d"));
+// console.log(userName.length);
+// userName = userName.repeat(4);
+// console.log(userName);
+
+
+
