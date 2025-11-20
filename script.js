@@ -87,3 +87,22 @@
 //     default:
 //         console.log(`${day} is not a day`);
 // }
+
+// let testScore = 34;
+// let letterGrade;
+// switch(true){
+//     case testScore >= 90:
+//         letterGrade = "A";
+//         break;
+//     case testScore >= 75:
+//         letterGrade = "B";
+//         break;
+//     case testScore >= 35:
+//         letterGrade = "pass";
+//         break;
+//     case testScore >= 0:
+//         letterGrade = "Fail";
+//         break;
+// }
+// console.log(letterGrade);
+
