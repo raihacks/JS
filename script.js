@@ -45,4 +45,7 @@
 //     }
 // }
 
+// let age = 2;
+// let message = age >= 18 ?"your an adult" : "youre a minor";
+// console.log(message)
 
