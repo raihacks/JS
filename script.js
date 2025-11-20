@@ -49,3 +49,11 @@
 // let message = age >= 18 ?"your an adult" : "youre a minor";
 // console.log(message)
 
+// let time = 6;
+// let greeting = time < 12 ? "good morning" : "good afternoon";
+// console.log(greeting);
+
+// let isStudent = false;
+// let message= isStudent? "this is a student":"this is not a student";
+// console.log(message);
+
