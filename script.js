@@ -22,3 +22,17 @@
 // }while(userName === "" || userName === null)
 //     console.log(`hello ${userName}`);
 
+let loggedIn = false;
+let userName;
+let password;
+do{
+    userName = window.prompt("enter ur username:");
+    password = window.prompt("enter ur password:");
+    if(userName === "1" && password === "2"){
+        loggedIn = true;
+        console.log(`Welcome! `);
+    }
+    else{
+        console.log(`the user name or password is not corret`);
+    }
+}while(!loggedIn)
