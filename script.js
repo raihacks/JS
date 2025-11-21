@@ -12,6 +12,13 @@
 // }
 // console.log(`hello ${username}`);
 
+// let text1 = "     Hello World!     ";
+// let text2 = text1.trimStart();
+// console.log(text2);
 
-
+// let userName;
+// do{
+//     userName = window.prompt(" enetr ur name:");
+// }while(userName === "" || userName === null)
+//     console.log(`hello ${userName}`);
 
