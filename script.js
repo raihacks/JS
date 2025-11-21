@@ -90,24 +90,26 @@
 // }
 // happyBirthday("sid",18);
 
-function add(x,y){
-    return x+y;
-}
-function sub(x,y){
-    return x-y;
-}
-function mul(x,y){
-    return x*y;
-}
-function div(x,y){
-    return x/y;
-}
-function isEven(num){
-    if(num%2===0){
-        console.log(`${num} is a prime number`);
-    }
-    else{
-        console.log(`${num} is not a prime number`)
-    }
-}
-console.log(isEven(8));
+// function add(x,y){
+//     return x+y;
+// }
+// function sub(x,y){
+//     return x-y;
+// }
+// function mul(x,y){
+//     return x*y;
+// }
+// function div(x,y){
+//     return x/y;
+// }
+// function isEven(num){
+//     // if(num%2===0){
+//     //     console.log(`${num} is a prime number`);
+//     // }
+//     // else{
+//     //     console.log(`${num} is not a prime number`)
+//     // }
+//     return num %  2===0 ? "it is prime number":"it is not prime number";
+// }
+// console.log(isEven(9));
+
