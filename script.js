@@ -6,8 +6,12 @@
 //     console.log("the wether is BAD")
 // }
 
-let username =" ";
-while(username === " "){
-    username=window.prompt("entername");
-}
-console.log(`hello ${username}`);
+// let username =" ";
+// while(username === " "){
+//     username=window.prompt("entername");
+// }
+// console.log(`hello ${username}`);
+
+
+
+
