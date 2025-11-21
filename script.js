@@ -113,3 +113,13 @@
 // }
 // console.log(isEven(9));
 
+// function isValidEmail(email){
+//     if(email.includes("@")){
+//         return true;
+//     }
+//     else{
+//         return false;
+//     }
+// }
+// console.log(isValidEmail("sid@gamil.com"));
+
