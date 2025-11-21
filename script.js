@@ -80,3 +80,34 @@
 //         running = false;
 //     }
 // }
+
+// function happyBirthday(userName,age){
+//     console.log("Happy Birthday to you!");
+//     console.log("Happy Birthday to you!");
+//     console.log(`Happy Birthday to you, ${userName}!`);
+//     console.log("Happy Birthday to you!");
+//     console.log(`Happy ${age}th Birthday!`);
+// }
+// happyBirthday("sid",18);
+
+function add(x,y){
+    return x+y;
+}
+function sub(x,y){
+    return x-y;
+}
+function mul(x,y){
+    return x*y;
+}
+function div(x,y){
+    return x/y;
+}
+function isEven(num){
+    if(num%2===0){
+        console.log(`${num} is a prime number`);
+    }
+    else{
+        console.log(`${num} is not a prime number`)
+    }
+}
+console.log(isEven(8));
