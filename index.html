@@ -7,24 +7,18 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- <button id="bnt">roll the dice</button><br>
-    <label id="lable1" class="lables"></label>
-    <label id="lable2" class="lables"></label>
-    <label id="lable3" class="lables"></label> -->
+    <form>
+        <h1>Temperature converion</h1>
+        <input type="number" id="inputBox" value="0"><br><br>
+        <input type="radio" id="c2f" name="units">
+        <label for="c2f">Celsius to Fahrenheit</label><br><br>
+        <input type="radio" id="f2c" name="units">
+        <label for="f2c">Fahrenheit to Celsius</label><br><br>
+        <button type="button" onclick="convTemp()" id="bnt">Submit</button>
+        <p id="result">Select a unit</p>
 
-    <!-- <input type="checkbox" id="cbox">
-    <label for="cbox">Subscrib</label><br><br>
-    <input type="radio" id="cbox1" name="tv">
-    <label for="cbox1">hotsart</label><br>
-    <input type="radio" id="cbox2" name="tv">
-    <label for="cbox2">netfixl</label><br>
-    <input type="radio" id="cbox3" name="tv">
-    <label for="cbox3">holo</label><br>
-    <button type="submit" id="btn">submit</button>
-    <p id="subResult"></p>
-    <p id="tvResult"></p> -->
+    </form>
 
-    
 
     <script src="script.js"></script>
 </body>

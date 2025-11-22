@@ -45,7 +45,7 @@
 
 // let x= "0";
 // x=String(x);
-// console.log(x, typeof x)
+// console.log(x, typeof x);
 
 //COUNTER PROGRAM
 
